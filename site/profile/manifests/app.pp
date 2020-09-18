@@ -1,2 +1,2 @@
-class prifle::app {
+class profile::app {
 }
