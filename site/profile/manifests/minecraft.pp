@@ -1,3 +1,3 @@
-class minecraft {
+class profile::minecraft {
   include profile::minecraft
 }
